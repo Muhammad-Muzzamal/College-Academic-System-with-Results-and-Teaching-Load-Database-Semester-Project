@@ -1,5 +1,5 @@
 
-# College Academic System with Results and Teaching Load DataBase Semester Project
+# College Academic System with Results and Teaching Load Database Semester Project
 
 
 
@@ -51,3 +51,8 @@ This system is an academic management platform designed to handle student enroll
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/muhammad-muzzamal-846117289)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ashrafmuzzamal7@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react)](https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/)
+
+**Project Supervisor:**  
+Madam Sahrish Khan   
+Department of Computer Science  
+Government Post Graduate College Civil Lines Sheikhupura Punjab Pakistan 
