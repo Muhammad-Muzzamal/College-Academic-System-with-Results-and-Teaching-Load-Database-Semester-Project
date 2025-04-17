@@ -46,7 +46,7 @@ This system is an academic management platform designed to handle student enroll
 - Results processing and publication
 ## Authors
 
-- [Muhammd Muzzamal](https://github.com/Muhammad-Muzzamal)
+- Github: [Muhammd Muzzamal](https://github.com/Muhammad-Muzzamal)
 - Email: ashrafmuzzamal7@gmail.com
 - Linkedin: [Muhammd Muzzamal](https://github.com/Muhammad-Muzzamal)
 
