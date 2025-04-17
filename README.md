@@ -7,8 +7,14 @@
 
 
 ## 🚀 About Me
-I'm a Passionate Front-end Developer...
+<div align="center">
+  
+![Developer Illustration](https://lh3.googleusercontent.com/d/1HH2R0-5STR7PBuh1UEO6mtcPJHQei2Hh)
 
+</div>
+
+## 🎨 Frontend Craftsman
+Hi, I'm Muhammad Muzzamal. I'm a passionate Front-End Developer with 1.5 years of hands-on experience crafting beautiful, responsive web interfaces. I specialize in turning complex problems into elegant, user-friendly solutions.
 
 ## ✨Project Overview
 This system is an academic management platform designed to handle student enrollment, course registration, attendance tracking, assessment management, and grade processing. It includes professors' teaching load management features, automatic timetable generation, and performance analytics.
