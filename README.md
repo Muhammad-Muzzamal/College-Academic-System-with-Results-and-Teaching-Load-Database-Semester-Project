@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-<div align="center">
+<div align="center" style="height:150px">
   
 ![Developer Illustration](https://lh3.googleusercontent.com/d/1HH2R0-5STR7PBuh1UEO6mtcPJHQei2Hh)
 
