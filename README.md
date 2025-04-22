@@ -1,5 +1,5 @@
 
-# College Academic System with Results and Teaching Load Database Semester Project
+# College Academic System Database Semester Project
 
 
 ## ✨Project Overview
